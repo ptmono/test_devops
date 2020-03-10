@@ -1,2 +1,2 @@
 
-[![CircleCI](https://app.circleci.com/pipelines/github/ptmono/test_devops.svg?style=svg)](https://app.circleci.com/pipelines/github/ptmono/test_devops)
+[![CircleCI](https://circleci.com/gh/ptmono/test_devops/tree/master.svg?style=svg)](https://circleci.com/gh/ptmono/test_devops/tree/master)
